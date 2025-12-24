@@ -1,0 +1,24 @@
+---
+title: "About"
+about:
+  id: hero-heading
+  template: trestles
+  image: media/headshot.jpg  
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Prior to working as a Professor at Stonehill, I completed my Ph.D. at Princeton University with Dr. Sarah Kocher. My dissertation is on the collective behavior of bees, at both the individual-level and the colony-level.
+
+Over the time, I have learned a great deal on raising bumblebees, insect biology, mathematical modeling, and developing bioinformatics pipelines to understand social behavior. I am always excited to talk science, and I love collaboration! I am especially excited to chat with Stonehill students who are looking to develop skills in data visualization, programming, or biological modeling, or who are working on a project where utilizing these skills will be useful.
+
+My other passion has been developing my skills as an educator. I have a deep passion for teaching incarcerated students, working as an educator and course coordinator for the Prison Teaching Initiative in New Jersey. If you are interested in working with incarcerated students, get in touch!
+
+Whether you're a student, a bee biologist, or an educator, I hope the resources I provide on this site can be helpful!
+
+[My CV](https://drive.google.com/file/d/1D6NSM_MpIlj8myzPvGJb3Xn5VuiYEYlt/view?usp=sharing)

@@ -1,0 +1,24 @@
+---
+title: "Publications"
+---
+
+<!-- references -->
+
+# 2025
+
+- **Ruttenberg, Dee M.**, Scott W. Wolf, Andrew E. Webb, Eli S. Wyman, Michelle L. White, Diogo Melo, Ian M. Traniello, and Sarah D. Kocher. "Queen loss unmasks cryptic worker influence and decentralizes the bumble bee social network." *bioRxiv* (2025): [2025.01.07.630106](https://www.biorxiv.org/content/10.1101/2025.01.07.630106v1)
+
+# 2024
+
+- **Ruttenberg, Dee M.**, Simon A. Levin, Ned S. Wingreen, and Sarah D. Kocher. "Variation in season length and development time is sufficient to drive the emergence and coexistence of social and solitary behavioural strategies." *Proceedings of the Royal Society B* 291, no. 2032 (2024): [rspb.2024.1221](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1221)
+
+# 2023
+
+- Wolf, Scott W., **Dee M. Ruttenberg**, Daniel Y. Knapp, Andrew E. Webb, Ian M. Traniello, Grace C. McKenzie‐Smith, Sophie A. Leheny, Joshua W. Shaevitz, and Sarah D. Kocher. "NAPS: Integrating pose estimation and tag‐based tracking." *Methods in Ecology and Evolution* 14, no. 10 (2023): [2041-210X.14201](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14201)
+
+# 2021
+
+- **Ruttenberg, Dee M.**, Nicholas W. VanKuren, Sumitha Nallu, Shen-Horn Yen, Djunijanti Peggie, David J. Lohman and Marcus R. Kronforst. "The evolution and genetics of sexually dimorphic ‘dual’ mimicry in the butterfly Elymnias hypermnestra." *Proceedings of the Royal Society B* 288, no. 2020 (2021): [rspb.2020.2192](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.2192)
+
+<!-- /references -->
+
