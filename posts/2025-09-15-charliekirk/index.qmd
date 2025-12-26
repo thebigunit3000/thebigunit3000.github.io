@@ -3,7 +3,7 @@ title: "On Charlie Kirk"
 description: |
   On flying a flag at half-staff for Charlie Kirk
 # author:
-  # - name: Dee Ruttenberg
+  # - name: My Pen Name Here
   #   affiliation: Professor of Practice, Stonehill College
   #   affiliation-url: https://www.stonehill.edu/
 date: 2025-09-15

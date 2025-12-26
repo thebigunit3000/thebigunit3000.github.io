@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Dee Ruttenberg"
+  title: "My Pen Name Here"
   navbar:
     left:
       - href: index.qmd

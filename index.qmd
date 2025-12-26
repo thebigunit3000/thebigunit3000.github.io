@@ -1,5 +1,5 @@
 ---
-title: "Dee Ruttenberg"
+title: "My Pen Name Here"
 image: media/headshot.jpg
 toc: false
 about: 
@@ -15,4 +15,4 @@ about:
       href: deeruttenberg@gmail.com
 ---
 
-My name is Dee Ruttenberg (they/them). I am a Professor of Practice at Stonehill College, interested in developing pedagogical resources for teaching biology, behavior, and bioinformatics. On this page, I will be uploading my educational resources for both students I work with and other educators.
+My name is My Pen Name Here (they/them). I am a Professor of Practice at Stonehill College, interested in developing pedagogical resources for teaching biology, behavior, and bioinformatics. On this page, I will be uploading my educational resources for both students I work with and other educators.
