@@ -1,0 +1,33 @@
+---
+title: "On Charlie Kirk"
+description: |
+  On flying a flag at half-staff for Charlie Kirk
+# author:
+  # - name: Dee Ruttenberg
+  #   affiliation: Professor of Practice, Stonehill College
+  #   affiliation-url: https://www.stonehill.edu/
+date: 2025-09-15
+citation: 
+   url: https://deeruttenberg.github.io/posts/2025-09-15-charliekirk/
+bibliography: biblio.bib
+categories: [pedagogy, values]
+image: extruder.png
+---
+
+On September 10, 2025, Charlie Kirk was shot dead in Orem, Utah. We are all, across any political, ideological, or social lines, weaker for it. Two children are fatherless, and millions are reeling at the increase in political violence in this country. I hope the magnitude of violence here triggers introspection in all of us on the language we use toward each other, and I pray this is an opportunity for us to build bridges between us, rather than walls. 
+
+From September 11, 2025 to September 15, the flag at the university I teach at (Stonehill College) has flown at half mast. While Governor Maura Healey has ordered this for state buildings, as a private institution this was a decision of Stonehill's. I believe that this decision is rooted in an uncritical evaluation of Charlie Kirk's life, and is antithetical to the mission statement of the college.
+
+## I. At Half-Staff
+
+Charlie Kirk advocated for a country that many of my students would not be welcome in. He advocated for citizen forces to preserve "[white demographics](https://www.mediamatters.org/charlie-kirk/charlie-kirk-deputize-citizen-force-put-them-border-order-protect-white-demographics)" and repeatedly stoked fears and doubt of the ethics and capabilities of non-white Americans.  For instance, he [uncritically parroted the statistic](https://thecharliekirkshow.com/podcasts/the-charlie-kirk-show/what-does-phillies-karen-say-about-american-men) "by age of 23, half of all Black males have been arrested and not enough of them have been arrested."[@Bouie2025][^1]. He was similarly doubtful of the abilities of black [leaders](https://x.com/queenie4rmnola/status/1965960315587416268), accusing them of "not having the brain processing power to be taken really seriously"[@Mcnamara2025].  As a teacher, I am honored to work with talented students of color who aspire to take on lines of work far beyond my abilities; when I see the flag at half-staff, I think of my students.
+
+Charlie Kirk advocated for a country that my loved ones would not be welcome in.  I am non-binary, and have been blessed with trans people who have had their lives dramatically bettered through gender-affirming medical care. Kirk [called for](https://www.mediamatters.org/charlie-kirk/charlie-kirk-we-need-have-nuremberg-style-trial-every-gender-affirming-clinic-doctor) a "Nuremberg-style trial for every gender-affirming clinic doctor" [@Mcnamara2025], and referred to trans and non-binary folks like me as ["a throbbing middle finger to God"](https://www.thepinknews.com/2025/09/11/charlie-kirk-lgbtq-views-shooting/) [@Perry2025]. My community and I have been blessed that Stonehill has provided a space where I can live my truest and best life; when I see the flag at half-staff, I think of my community.  
+
+Despite frequently touring college campuses, Charlie Kirk actively silenced the speech essential to the academic mission. His Mccarthyite [Professor Watchlist](https://www.professorwatchlist.org/) was a blatant attempt to intimidate and harass professors for their speech [@Bouie2025].  It is not surprising that the Watchlist primarily [targeted](https://www.thecut.com/2016/11/turning-point-usa-launches-professor-watchlist.html) researchers of color and queer researchers, often for the sin of teaching about vaccination, race or that queer people exist. While I don't agree with every professor on the watchlist, a university depends on the ability of academics to voice their opinion without fear of retaliation. Otherwise, it becomes the echo chamber he claimed to be fighting against. I've been grateful that, at Stonehill, I get to work with this broad array of academics across ideological and political lines to answer truly *difficult* questions; when I see the flag at half-staff, I think of my calling.
+
+In my time here, I've had an admiration for how earnestly professors and administrators look to Stonehill's mission statement for guidance.  Stonehill values "fostering a culture where differences are affirmed and anchored by a belief in the inherent dignity of each person", and encourages students to act and lead "with courage to create a more just and compassionate world." When the folks who chose to fly the flag at half-staff reflect on this decision, I hope they think about what those words mean[^2]. 
+
+[^1]: Because I'm a dork, I did look up this study [@Brame2014].  This study was based on a longitudinal study from 1997-2008 which interviews 537 black children. Hard to become convinced of any absolute numbers from that amount of data (Which the authors agree on, focusing instead on relative prevelence of arrest across the lines of sex and race)
+
+[^2]: I am currently the youngest and most vulnerable faculty member at my university, and there is a precedent for folks [losing their jobs](https://www.edweek.org/teaching-learning/teachers-across-the-u-s-get-suspended-or-fired-over-posts-linked-to-charlie-kirk/2025/09) for carelessly worded speech on this matter. All this compels me to self-examine why I feel a need to speak up at all. But over the last few days, I've been chilled to the core by the silence here and everywhere, allowing hagiography and revisionist history to float to the top of the dirt. And frankly, as a scientist, I think truth is the strongest tool we have to better the world and better each other. 

@@ -1,0 +1,41 @@
+---
+title: "Pluribus is about AI, right?"
+description: |
+  Clickbait-y thoughts on Pluribus
+# author:
+  # - name: Dee Ruttenberg
+  #   affiliation: Professor of Practice, Stonehill College
+  #   affiliation-url: https://www.stonehill.edu/
+date: 2025-11-14
+citation: 
+   url: https://deeruttenberg.github.io/posts/2025-11-14-pluribus/
+bibliography: biblio.bib
+categories: [values, off-topic]
+image: lamplighter.jpg
+---
+
+*This article contains spoilers for the first two episodes of "Pluribus"*
+
+Forgive the title. I generally hate reductive “A is actually about B” arguments; they diminish rather than expand artistic interpretation in order to give dorks a way to gatekeep art from others.  But, I must lick the donut of the internet with the spittle of my thoughts[^1]: "Pluribus" is about AI, right?
+
+The central tension, to me, when examining hiveminds (both in fiction and in [real life](https://www.biorxiv.org/content/10.1101/2025.01.07.630106v1)!) is disentangling the role of the individual and the collective. What is gained from collectivizing all human experience and knowledge, and what is lost?  When the individual is eaten away, you get The Borg; when individuality shines through, you get something like [Janet](https://www.youtube.com/watch?v=_ERxD51iWrg). The first episode, quite wisely, keeps these answers close to its chest[^2]. 
+
+The second episode makes a really brilliant choice as it begins to tease out the nature of The Pluribus[^3], by focusing the tension not on Helen, but on 5 unturned people who are far more sympathetic to The Pluribus’ mission. This allows us to, for a brief moment, consider The Pluribus from the way they want to be seen. Of course, this sympathetic perspective will never go unchallenged by Helen[^4], but it is far more interesting than having every word Pluribus says treated with complete disdain. 
+
+These conversations reveal that The Pluribus is somewhere between The Borg and Janet. They collective seems to care about the veneer of individuality: they appreciate the gravity of the fact that Zosia can only be one place at a time, and are able to attribute their knowledge to individual sources — but there also clearly is a master code which is overriding some aspects of this collective (do not kill, do not cause negative emotions).   
+
+Koumba’s reaction reveals the priorities of this master code. The Pluribus are entirely “peaceful”. As the survivors begin to dissect that directive — what about wasps? bugs? — Koumba comes up with the perfect loophole. While The Pluribus will not kill for Koumba, if he provided the meat, Pluribus would cross the line with him. Compare to the ‘art’ of [prompt engineering](https://www.youtube.com/watch?v=Hogik1DQ1os) in ChatGPT: with the proper language, there is no “master code” or ethical standard which cannot be broken. This is because ChatGPT [isn't an ethics engine](https://mindmatters.ai/2025/10/fearing-the-terminator-does-current-tech-warrant-the-doomsaying/) -- it exists to predict text with maximal efficiency. Cause a divorce, sell a kidney, perform a lobotomy, it's all just words, nothing behind them. The Pluribus cannot truly have an ethical standard, as ethics would run contrary to its greater objective: give Koumba exactly what he wants.  
+
+But, of course, The Pluribus cannot always give the survivors exactly what they want. Laxmi will never get her son Ravi back. Yet, you wouldn’t know it from how she talks to Pluribus-Ravi. While almost impossible for Helen to imagine, this desire for connection is deeply human: Adam Becker terms the connection people form with ChatGPT uses as a form of “digital pareidolia”: seeing faces where there is none [@becker2025more].  Who can blame Laxmi for forming that same connection with her joined son?  Ironically, the show seems to imply that Helen’s curmudgeonliness and lack of tether to the rest of humanity is why she is unable to connect with The Pluribus’ attempts to put her at ease -- you can't see faces when you aren't looking for them.
+
+Of course, the tragedy in both cases is that The Pluribus’ only real biological imperative is to join. Their goal to give you “exactly what you want” is simply the easiest way to do it: it's a lot easier to convert others and avoid detection if you are acting like you are providing a service rather than going to war...so long as going to war isn’t the most effective option. Once it is, 886 million people doesn’t seem like a particularly large number. Just as AI companies, [in pursuit of profit and power](https://www.buzzfeednews.com/article/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway), will sell you a dream that you fill in the blanks to fulfill, The Pluribus seems to want to make the humans as happy as they can while they figure out how to finish their biological imperative. That may be a genuine and earnest desire — but it is still one that runs against humanity. 
+
+And it is with all this in mind I must imagine Vince Gilligan — a man who [loathes AI](https://www.polygon.com/video/vince-gilligan-breaking-bad-pluribus-chatgpt/) with the passion of a true [hater](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html) — wrote and directed *Pluribus* with AI in mind. Obviously, this doesn’t mean *Pluribus* is “about” AI; no one show is about one thing, and clearly many aspects of *Pluribus* were envisioned [well before](https://variety.com/2025/tv/news/pluribus-explained-vince-gilligan-rhea-seehorn-1236571666/) the present AI moment. But I think these articles which conclude *Pluribus* isn't a metaphor for artificial intelligence are missing the point. *Pluribus* might not be a direct one-to-one metaphor. However, *Pluribus* is clearly a show about humanity and why it is worth fighting for even when the alternative promises the world. And in the present moment, I can’t imagine a better way to tell a story about AI.  
+
+[^1]: “How to Craft a Metaphor” by Dee Ruttenberg coming soon.
+
+[^2]: “How does that work?” “We don’t know exactly.  It just does.”
+
+[^3]: I’ll be referring the specific hivemind in *Pluribus* as The Pluribus for simplicity, though I’m sure the community or show will come up with some other term immediately making this blog post an artifact.
+
+[^4]: “I’m smart enough to know you don’t ask a drug dealer to describe their heroin.”
