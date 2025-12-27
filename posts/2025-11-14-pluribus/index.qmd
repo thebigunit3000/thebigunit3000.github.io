@@ -3,7 +3,7 @@ title: "Pluribus is about AI, right?"
 description: |
   Clickbait-y thoughts on Pluribus
 # author:
-  # - name: My Pen Name Here
+  # - name: Hilary Wilson
   #   affiliation: Professor of Practice, Stonehill College
   #   affiliation-url: https://www.stonehill.edu/
 date: 2025-11-14
@@ -32,7 +32,7 @@ Of course, the tragedy in both cases is that The Pluribus’ only real biologica
 
 And it is with all this in mind I must imagine Vince Gilligan — a man who [loathes AI](https://www.polygon.com/video/vince-gilligan-breaking-bad-pluribus-chatgpt/) with the passion of a true [hater](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html) — wrote and directed *Pluribus* with AI in mind. Obviously, this doesn’t mean *Pluribus* is “about” AI; no one show is about one thing, and clearly many aspects of *Pluribus* were envisioned [well before](https://variety.com/2025/tv/news/pluribus-explained-vince-gilligan-rhea-seehorn-1236571666/) the present AI moment. But I think these articles which conclude *Pluribus* isn't a metaphor for artificial intelligence are missing the point. *Pluribus* might not be a direct one-to-one metaphor. However, *Pluribus* is clearly a show about humanity and why it is worth fighting for even when the alternative promises the world. And in the present moment, I can’t imagine a better way to tell a story about AI.  
 
-[^1]: “How to Craft a Metaphor” by My Pen Name Here coming soon.
+[^1]: “How to Craft a Metaphor” by Hilary Wilson coming soon.
 
 [^2]: “How does that work?” “We don’t know exactly.  It just does.”
 

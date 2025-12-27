@@ -3,7 +3,7 @@ title: "Extended Thoughts on AI"
 description: |
   Further thoughts for students and interested educators on AI in the classroom
 # author:
-  # - name: My Pen Name Here
+  # - name: Hilary Wilson
   #   affiliation: Professor of Practice, Stonehill Collect
   #   affiliation-url: https://www.stonehill.edu/
 date: 2025-09-02

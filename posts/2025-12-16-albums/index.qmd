@@ -3,7 +3,7 @@ title: "Albums of the Year: 2025"
 description: |
   Rejoice, Rejoice!
 # author:
-  # - name: My Pen Name Here
+  # - name: Hilary Wilson
   #   affiliation: Professor of Practice, Stonehill College
   #   affiliation-url: https://www.stonehill.edu/
 date: 2025-12-16
